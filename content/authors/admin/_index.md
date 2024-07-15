@@ -55,4 +55,5 @@ highlight_name: true
 website: ""
 ---
 
-I'm a PhD student at the Applied Mathematics Department at the University of California, Merced
+I'm a PhD student at the Applied Mathematics Department at UC Merced 
+(Under Construction)
