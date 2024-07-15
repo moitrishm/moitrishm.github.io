@@ -57,3 +57,9 @@ website: ""
 
 I'm a PhD student at the Applied Mathematics Department at UC Merced 
 (Under Construction)
+
+
+
+<br/>
+News
+> June 2024: I presented at a minisymposium at the 2024 SIAM Conference on the Life Sciences
