@@ -46,7 +46,8 @@ profiles:
   - icon: brands/github
     url: https://github.com/moitrishm
     label: 
-
+  - icon: brands/google-scholar
+    url: https://scholar.google.com/citations?user=v2wuOnoAAAAJ&hl=en
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
