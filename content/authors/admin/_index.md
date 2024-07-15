@@ -30,7 +30,7 @@ bio: ''
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: custom/email-svgrepo-com
+  - icon: at-symbol
     url: 'mailto:mmajumdar@ucmerced.edu'
     label: E-mail Me
   - icon: brands/x
