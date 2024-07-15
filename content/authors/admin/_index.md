@@ -30,7 +30,7 @@ bio: ''
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: email-svgrepo-com
+  - icon: assets/media/icons/custom/email-svgrepo-com
     url: 'mailto:mmajumdar@ucmerced.edu'
     label: E-mail Me
   - icon: brands/x
@@ -38,12 +38,12 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/mojito_ish/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/moitrishm/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
     label: Download my resume
-  - icon: github
+  - icon: brands/github
     url: https://github.com/moitrishm
     label: 
 
