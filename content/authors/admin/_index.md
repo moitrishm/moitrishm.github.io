@@ -2,12 +2,12 @@
 # Display name
 title: Moitrish Majumdar
 
-# Name pronunciation (optional)
-name_pronunciation: (they/them/theirs)
-
 # Full name (for SEO)
 first_name: Moitrish
 last_name: Majumdar
+
+# Name pronunciation (optional)
+name_pronunciation: (they/them/theirs)
 
 # Status emoji
 status:
