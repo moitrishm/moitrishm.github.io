@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Moitrish Majumdar
+title: Moitrish Majumdar (they/them/theirs)
 
 # Full name (for SEO)
 first_name: Moitrish
@@ -62,6 +62,6 @@ I'm a PhD student at the Applied Mathematics Department at UC Merced
 
 <br/>
 
-#### News
+## News
 
 >June 2024: I presented at a minisymposium at the 2024 SIAM Conference on the Life Sciences
