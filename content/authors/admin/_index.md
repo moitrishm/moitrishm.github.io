@@ -6,7 +6,7 @@ title: Moitrish Majumdar
 first_name: Moitrish
 last_name: Majumdar
 
-# Name pronunciation (optional)
+# pronouns
 pronouns: (they/them/theirs)
 
 # Status emoji
@@ -56,12 +56,12 @@ website: ""
 ---
 
 I'm a PhD student at the Applied Mathematics Department at UC Merced 
-(Under Construction)
+
 
 
 
 <br/>
 
-## News
+#### News
 
 >June 2024: I presented at a minisymposium at the 2024 SIAM Conference on the Life Sciences
