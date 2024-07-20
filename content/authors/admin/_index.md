@@ -61,6 +61,6 @@ I'm a PhD student at the Applied Mathematics Department at UC Merced
 
 <br/>
 
-## News
-<br/>
+## <p style="text-align: center;"> News </p>
+
 >June 2024: I presented at a minisymposium at the 2024 SIAM Conference on the Life Sciences
