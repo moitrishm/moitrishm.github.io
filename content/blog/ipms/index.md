@@ -5,10 +5,14 @@ date: 2024-07-20
 authors:
   - admin
 tags:
-  - 
+  - optimization
 image:
-  caption: ''
+  caption: 'Recovering a sparse matrix of signals with limited information'
 ---
+
+Using contrained optimization and sparse signal reconstruction to determine protein-antibody interactions
+
+## Overview
 
 More information coming soon! 
 
