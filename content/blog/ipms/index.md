@@ -1,16 +1,15 @@
 ---
-title: Using contrained optimization and sparse signal reconstruction to determine protein-antibody interactions
-summary: Use popular tools such as Plotly, Mermaid, and data frames.
-date: 2023-10-25
+title: Protein-antibody interations from mass spectrometry data
+summary: Using contrained optimization and sparse signal reconstruction to determine protein-antibody interactions
+date: 2024
 authors:
   - admin
 tags:
-  - Hugo
-  - Hugo Blox
-  - Markdown
+  - 
 image:
   caption: ''
 ---
 
+More information coming soon! 
 
 ## Did you find this page helpful? Consider sharing it 🙌
