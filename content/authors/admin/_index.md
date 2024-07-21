@@ -61,11 +61,11 @@ I'm a PhD student at the Applied Mathematics Department at UC Merced. My researc
 
 <br/>
 
-## <p style="text-align: center;> News </p>
+## <p style="text-align: center;"> News </p>
 
-Just testing blockquotes:
+- June 2024: I presented at a minisymposium at the [2024 SIAM Conference](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=79572) on the Life Sciences.
 
-> June 2024: I presented at a minisymposium at the [2024 SIAM Conference](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=79572) on the Life Sciences
+- April 2023: I presented a poster at the [Max Planck Institute for Evolutionary Biology](https://workshops.evolbio.mpg.de/event/75/contributions/) at the Modeling Resistance Evolution workshop.
 
 
-## <p style="text-align: center;> Projects </p>
+## <p style="text-align: center;"> Projects </p>
