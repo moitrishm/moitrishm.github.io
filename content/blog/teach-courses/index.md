@@ -1,7 +1,6 @@
 ---
 title: Network model of a bacterial population
-summary: A network model for the growth of a bacterial population, with inter-phenotypic 
-switching and some results about the asymptotic growth rate of these populations.
+summary: 
 date: 2022-07-24
 math: true
 authors:
