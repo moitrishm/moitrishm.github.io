@@ -1,7 +1,7 @@
 ---
 title: Network model of a bacterial population
-summary: 
-date: 2022-07-24
+summary: A network model for the growth of a bacterial population, with inter-phenotypic 
+switching and some results about the asymptotic growth rate of these populations.
 math: true
 authors:
   - admin
@@ -23,8 +23,6 @@ In the presence of an antibiotic, an individual cell in a bacterial population c
 to maximize the entire population's chances of survival. We modeled a bacterial population with inter-phenotypic switching
 as a network, with every node representing a phenotype and every (directed) edge represented the ability of 
 one phenotype to switch to another phenotype. 
-<br/><img src='/images/networks.PNG'><br/>
-
 The edge weights encode the rate of switching from one phenotype to another [2].
 We observed that as more switching pathways were restricted (which was modeled as removal of edges from the network), the edge weights on the remaining edges
 would have to be increased, in order to maintain the asymptotic population growth rate.
