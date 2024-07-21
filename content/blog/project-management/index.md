@@ -1,6 +1,6 @@
 ---
 title: Simulating a random dynamical system
-summary:  Developing numerical simulations of a random dynamical system to depict intermittency and ergodicity breaking in some parameter regimes.
+summary: A network model of a bacterial population with phenotypic switching, and some results from this model abou the asymtpotic growth rate of the bacteria.
 date: 2021-10-23
 authors:
   - admin
@@ -10,11 +10,6 @@ tags:
 image:
   caption: 'Power law properties of the dynamical system'
 ---
-profiles:
-  - icon: brands/google-scholar
-    url: '
-  - icon: brands/github
-    url: 
 
 Developing numerical simulations of a random dynamical system to depict intermittency and ergodicity breaking in some parameter regimes. Here is the [code](https://github.com/moitrishm/randomdynamicalsystem) I developed for this project and the subsequent [journal publication](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v2wuOnoAAAAJ&citation_for_view=v2wuOnoAAAAJ:u5HHmVD_uO8C).
 
