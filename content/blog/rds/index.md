@@ -12,7 +12,8 @@ image:
 ---
 
 <br/>
-[ Publication](https://pubs.aip.org/aip/cha/article-abstract/34/2/023128/3266651/Transition-to-anomalous-dynamics-in-a-simple?redirectedFrom=fulltext){: .btn}
+[Publication](https://pubs.aip.org/aip/cha/article-abstract/34/2/023128/3266651/Transition-to-anomalous-dynamics-in-a-simple?redirectedFrom=fulltext){: .btn}
+
 [Code](https://github.com/moitrishm/randomdynamicalsystem){: .btn}
 <br/>
 
@@ -34,7 +35,7 @@ Theoretical Physics. [Dr. Yuzuru Sato](https://www2.sci.hokudai.ac.jp/dept/math/
 
 
 I presented the preliminary results of this project as a talk at the end of the summer school, in July 2021.
-{{< youtube T2mHZ4U7YM >}}
+{{< youtube PT2mHZ4U7YM >}}
 
 ## References
 
