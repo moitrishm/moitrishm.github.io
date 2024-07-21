@@ -63,7 +63,9 @@ I'm a PhD student at the Applied Mathematics Department at UC Merced. My researc
 
 ## <p style="text-align: center;"> News </p>
 
->June 2024: I presented at a minisymposium at the 2024 SIAM Conference on the Life Sciences
+Just testing blockquotes:
+
+> June 2024: I presented at a minisymposium at the [2024 SIAM Conference](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=79572) on the Life Sciences
 
 
 ## <p style="text-align: center;"> Projects </p>
