@@ -13,9 +13,6 @@ image:
   caption: ''
 ---
 
-
-A network model for the growth of a bacterial population, with inter-phenotypic switching and some results about the asymptotic growth rate of these populations.
-
 ## Description
 
 Bacterial populations can be made up of several sub-populations known as phenotypes. 
