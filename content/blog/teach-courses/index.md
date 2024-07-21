@@ -1,6 +1,6 @@
 ---
 title: Network model of a bacterial population
-summary: A network model of a bacterial population with phenotypic switching, and some results from this model abou the asymtpotic growth rate of the population.
+summary: A network model of a bacterial population with phenotypic switching, and some results from this model about the asymtpotic growth rate of the population.
 date: 2022-07-24
 authors:
   - admin
@@ -10,8 +10,7 @@ tags:
 image:
   caption: ''
 ---
-
-
+A network model of a bacterial population with phenotypic switching, and some results from this model about the asymtpotic growth rate of the population. This is the [code](https://github.com/moitrishm/phenotypicswitching) used for this project and a longer [description](https://drive.google.com/file/d/1hOlIifTOCp163Uy0Vj3KgZZPlBy3DqNt/view?usp=sharing) of the project details.
 
 ## Description
 
