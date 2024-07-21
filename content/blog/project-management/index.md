@@ -1,6 +1,6 @@
 ---
 title: Simulating a random dynamical system
-summary: A network model of a bacterial population with phenotypic switching, and some results from this model abou the asymtpotic growth rate of the bacteria.
+summary: Developing numerical simulations of a random dynamical system to depict intermittency and ergodicity breaking in some parameter regimes.
 date: 2021-10-23
 authors:
   - admin
