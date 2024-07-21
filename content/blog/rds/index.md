@@ -10,19 +10,11 @@ tags:
 image:
   caption: 'Power law properties of the dynamical system'
 ---
-
-  - block: buttons
-    content:
-      buttons:
-        - title: Read my latest paper on LLMs
-          icon: brands/arxiv
-          url: https://arxiv.org/abs/2304.01852
-        - title: Watch my new YouTube video to achieve 20x productivity
-          icon: brands/youtube
-          url: https://youtube.com
-        - title: Connect with me on LinkedIn
-          icon: brands/linkedin
-          url: https://linkedin.com
+profiles:
+  - icon: brands/google-scholar
+    url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v2wuOnoAAAAJ&citation_for_view=v2wuOnoAAAAJ:u5HHmVD_uO8C'
+  - icon: brands/github
+    url: https://github.com/moitrishm/randomdynamicalsystem
 
 Developing numerical simulations of a random dynamical system to depict intermittency and ergodicity breaking in some parameter regimes.
 
