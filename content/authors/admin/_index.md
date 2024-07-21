@@ -54,7 +54,7 @@ highlight_name: true
 website: ""
 ---
 
-I'm a PhD student at the Applied Mathematics Department at UC Merced 
+I'm a PhD student at the Applied Mathematics Department at UC Merced. My research interests broadly include mathematical biology and machine learning -- I'm specifically interested in using machine learning to obtain insights on complex biological phenomena such as protein-antibody interactions and antimicrobial resistance. 
 
 
 
