@@ -12,11 +12,11 @@ image:
 ---
 profiles:
   - icon: brands/google-scholar
-    url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v2wuOnoAAAAJ&citation_for_view=v2wuOnoAAAAJ:u5HHmVD_uO8C'
+    url: '
   - icon: brands/github
-    url: https://github.com/moitrishm/randomdynamicalsystem
+    url: 
 
-Developing numerical simulations of a random dynamical system to depict intermittency and ergodicity breaking in some parameter regimes.
+Developing numerical simulations of a random dynamical system to depict intermittency and ergodicity breaking in some parameter regimes. Here is the [code](https://github.com/moitrishm/randomdynamicalsystem) I developed for this project and the subsequent [journal publication](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v2wuOnoAAAAJ&citation_for_view=v2wuOnoAAAAJ:u5HHmVD_uO8C).
 
 ## Description
 
