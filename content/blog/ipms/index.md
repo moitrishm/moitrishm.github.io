@@ -7,7 +7,7 @@ authors:
 tags:
   - optimization
 image:
-  caption: 'Recovering a sparse matrix of signals with limited information'
+  caption: 'Recovering a sparse matrix of signals from limited information'
 ---
 
 Using contrained optimization and sparse signal reconstruction to determine protein-antibody interactions
