@@ -11,8 +11,10 @@ image:
   caption: 'Power law properties of the dynamical system'
 ---
 
+<button name="button" onclick="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v2wuOnoAAAAJ&citation_for_view=v2wuOnoAAAAJ:u5HHmVD_uO8C"> Publication </button>
+
 <br/>
-[Publication](https://pubs.aip.org/aip/cha/article-abstract/34/2/023128/3266651/Transition-to-anomalous-dynamics-in-a-simple?redirectedFrom=fulltext){: .btn}
+[Publication](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v2wuOnoAAAAJ&citation_for_view=v2wuOnoAAAAJ:u5HHmVD_uO8C){: .btn}
 
 [Code](https://github.com/moitrishm/randomdynamicalsystem){: .btn}
 <br/>
@@ -35,6 +37,7 @@ Theoretical Physics. [Dr. Yuzuru Sato](https://www2.sci.hokudai.ac.jp/dept/math/
 
 
 I presented the preliminary results of this project as a talk at the end of the summer school, in July 2021.
+
 {{< youtube PT2mHZ4U7YM >}}
 
 ## References
