@@ -13,6 +13,8 @@ image:
   caption: ''
 ---
 
+
+
 ## Description
 
 Bacterial populations can be made up of several sub-populations known as phenotypes. 
